@@ -47,8 +47,18 @@ brew install git-lfs
 brew install p7zip
 brew install pigz
 brew install ssh-copy-id
+brew install node
 
 brew tap caskroom/cask
+
+brew cask install cyberduck
+brew cask install deluge
+brew cask install java
+brew cask install keka
+brew cask install macvim
+brew cask install qnapi
+brew cask install textmate
+brew cask install vlc
 
 # Remove outdated versions from the cellar.
 brew cleanup
