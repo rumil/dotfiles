@@ -59,6 +59,7 @@ brew cask install macvim
 brew cask install qnapi
 brew cask install textmate
 brew cask install vlc
+brew cask install aerial
 
 # Remove outdated versions from the cellar.
 brew cleanup
