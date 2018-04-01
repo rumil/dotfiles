@@ -1,4 +1,0 @@
-alias shd='ssh rumil@rumil.ath.cx'
-export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
-export M2=$(brew --prefix maven)/libexec/bin
-export M2_HOME=$(brew --prefix maven)/libexec
