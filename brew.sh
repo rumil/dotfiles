@@ -56,14 +56,16 @@ brew install node
 brew tap caskroom/cask
 
 brew cask install cyberduck
-brew cask install deluge
+#brew cask install deluge
 brew cask install java
+brew cask install caskroom/versions/java8
 brew cask install keka
 brew cask install macvim
-brew cask install qnapi
+#brew cask install qnapi
 brew cask install textmate
 brew cask install vlc
 brew cask install aerial
+brew cask install maven
 brew install pv
 brew install rename
 brew install rlwrap
@@ -74,3 +76,4 @@ brew install zopfli
 
 # Remove outdated versions from the cellar.
 brew cleanup
+brew cask cleanup
